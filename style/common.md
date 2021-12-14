@@ -1,0 +1,3 @@
+- div居中
+	- class="vstack col-md-8 border mx-auto"
+	- 哪个元素需要居中，就修饰哪个元素
