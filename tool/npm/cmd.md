@@ -9,7 +9,8 @@
 - npm run script
 	- 运行任何一个包脚本
 	- 用于测试、开始、重启和停止指令
+	- 可以从package.json文件中查看
 - npm pack
 	- 创建一个压缩包	
 - npm pkg
-	- 管理你的package.json	
+	- 管理你的package.json
