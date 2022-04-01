@@ -12,3 +12,11 @@
 
 ## 配置
 - 
+
+## use_err
+- sudo npm install
+	- 提示
+		- sudo: npm: command not found
+	- Answer
+		- sudo ln -sf /usr/local/nodejs/bin/node /usr/bin/node
+		- sudo ln -sf /usr/local/nodejs/bin/node /usr/bin/node

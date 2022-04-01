@@ -16,3 +16,7 @@
 	- 一个包是被package.json文件介绍的一个文件或目录	
 	- 一个包必须包含一个package.json，为了能够发布到npm注册处
 	- 格式
+- package.json
+	- column_list
+		- scripts
+			- 

@@ -1,5 +1,8 @@
 # 命令
 ## List
+- npm install
+	- demo
+		- npm install core-js@3 --save
 - npm init
 	- 创造一个package.json文件，和初始化环境
 - npm exec
